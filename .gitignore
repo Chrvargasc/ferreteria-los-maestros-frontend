@@ -1,0 +1,26 @@
+# Dependencias
+node_modules/
+
+# Build de Vite
+dist/
+
+# Variables de entorno
+.env
+.env.*
+# Se suben porque solo traen la URL de la API (sin secretos), como en el proyecto de clases
+!.env.example
+!.env.development
+!.env.production
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Cobertura de pruebas
+coverage/

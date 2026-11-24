@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Sin foto">
+  <!-- Imagen genérica para productos sin foto (Ferretería Los Maestros) -->
+  <rect width="400" height="300" fill="#eef0f2"/>
+  <g fill="none" stroke="#9aa1a9" stroke-width="8" stroke-linejoin="round">
+    <rect x="140" y="105" width="120" height="80" rx="10"/>
+    <path d="M170 105 l10 -16 h40 l10 16"/>
+    <circle cx="200" cy="145" r="22"/>
+  </g>
+  <text x="200" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#6c757d">Sin foto</text>
+</svg>
